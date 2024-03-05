@@ -1,0 +1,13 @@
+2024-03-05T22:58:41.295794 src has been created on path: /Users/Belosnejka/IdeaProjects/Projects/netology/Work/HomeWork4.3.1/Games/src
+2024-03-05T22:58:41.302743 res has been created on path: /Users/Belosnejka/IdeaProjects/Projects/netology/Work/HomeWork4.3.1/Games/res
+2024-03-05T22:58:41.302816 savegames has been created on path: /Users/Belosnejka/IdeaProjects/Projects/netology/Work/HomeWork4.3.1/Games/savegames
+2024-03-05T22:58:41.302867 temp has been created on path: /Users/Belosnejka/IdeaProjects/Projects/netology/Work/HomeWork4.3.1/Games/temp
+2024-03-05T22:58:41.302915 main has been created on path: /Users/Belosnejka/IdeaProjects/Projects/netology/Work/HomeWork4.3.1/Games/src/main
+2024-03-05T22:58:41.302964 test has been created on path: /Users/Belosnejka/IdeaProjects/Projects/netology/Work/HomeWork4.3.1/Games/src/test
+2024-03-05T22:58:41.303030 drawable has been created on path: /Users/Belosnejka/IdeaProjects/Projects/netology/Work/HomeWork4.3.1/Games/res/drawable
+2024-03-05T22:58:41.303075 vectors has been created on path: /Users/Belosnejka/IdeaProjects/Projects/netology/Work/HomeWork4.3.1/Games/res/vectors
+2024-03-05T22:58:41.303120 icons has been created on path: /Users/Belosnejka/IdeaProjects/Projects/netology/Work/HomeWork4.3.1/Games/res/icons
+2024-03-05T22:58:41.303180 Main.java has been created on path: /Users/Belosnejka/IdeaProjects/Projects/netology/Work/HomeWork4.3.1/Games/src/main/Main.java
+2024-03-05T22:58:41.303225 Utils.java has been created on path: /Users/Belosnejka/IdeaProjects/Projects/netology/Work/HomeWork4.3.1/Games/src/main/Utils.java
+2024-03-05T22:58:41.303272 temp.txt has been created on path: /Users/Belosnejka/IdeaProjects/Projects/netology/Work/HomeWork4.3.1/Games/temp/temp.txt
+
