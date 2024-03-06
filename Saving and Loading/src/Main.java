@@ -48,9 +48,12 @@ public class Main {
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
+        deleteFile(zipList);
+    }
 
-        for (String zipFiles : zipList) {
-            new File(zipFiles).delete();
+    public static void deleteFile(List<String> filelist) {
+        for (String file : filelist) {
+            new File(file).delete();
         }
     }
 
